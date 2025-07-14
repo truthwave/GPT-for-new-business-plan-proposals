@@ -1,3 +1,121 @@
+# Business Plan Generator GPT (新規事業計画書作成GPT)
+
+> “Create compelling business plans that capture investors’ hearts.”
+
+---
+
+## 📌 Overview
+
+**Business Plan Generator GPT (新規事業計画書作成GPT)** is a GPT-powered assistant that helps startup founders quickly generate professional business plans tailored for venture capital (VC) investors.
+
+Specializing in the IT and AI fields, it produces business plans covering everything from business overviews to market analysis and revenue forecasts — written in a formal yet passionate tone to captivate investors.
+
+---
+
+## ⚙️ Features
+
+✅ Automatically generates business plans tailored for VC investors  
+✅ Specialized language and analysis for IT and AI sectors  
+✅ Outputs the following sections:
+- Business Overview
+- Business Model
+- Market Analysis
+- Unique Value Proposition
+- Revenue Forecast (simplified)
+- Social Impact
+
+✅ Writes in a positive, passionate tone to convey enthusiasm  
+✅ Asks follow-up questions if input details are missing
+
+---
+
+## 🎯 Example Prompts
+
+```
+
+Please create a business plan for VC investors based on the following information:
+
+* Business Theme: SaaS for enterprise marketing support using Generative AI
+* Key Features: Customer data analysis, automated copywriting, ad optimization
+* Target Market: Medium and large enterprises in Japan
+* Unique Strengths: Proprietary AI models trained on marketing data
+* Revenue Goal: ¥1 billion annual revenue in year 3
+* Social Impact: Improving marketing efficiency and reducing corporate costs
+
+```
+```
+
+Please generate only the market analysis section.
+
+```
+
+---
+
+## 💻 Example Output
+
+> **【Business Overview】**  
+> This business offers a SaaS platform leveraging Generative AI to revolutionize marketing operations for medium and large enterprises in Japan. It integrates customer data analysis, automated copywriting, and ad optimization into a single solution, transforming corporate marketing efforts.
+>
+> **【Business Model】**  
+> The service adopts a subscription-based model, lowering initial adoption barriers to attract customers, and aims for recurring revenue through continued usage.
+>
+> **【Market Analysis】**  
+> Japan’s marketing SaaS market is projected to grow over 10% annually. The Generative AI space remains largely untapped, representing a significant blue ocean opportunity.
+>
+> **【Unique Value Proposition】**  
+> Our strength lies in proprietary AI models trained on extensive marketing datasets, enabling precise capture of industry-specific expressions and consumer psychology.
+>
+> **【Revenue Forecast (Simplified)】**  
+> The first-year revenue target is ¥100 million, aiming for ¥1 billion annually by year 3.
+>
+> **【Social Impact】**  
+> This business enhances marketing efficiency and cost reduction for companies, contributing to overall economic productivity.
+
+---
+
+## 🛠 Technical Highlights
+
+- **Custom Prompt Engineering**
+  - Optimized to generate business plans specifically for the IT and AI sectors
+  - Capable of producing both concise summaries and detailed explanations
+
+- **Investor-Focused Tone**
+  - Outputs documents in a formal yet energetic style to engage VCs
+
+- **Interactive Data Collection**
+  - Asks additional questions if initial input is insufficient
+
+---
+
+## ⚠️ Disclaimer
+
+- This tool generates draft business plans for reference purposes.
+- Final business plans should be reviewed and refined by professionals before submission to investors.
+- Market conditions and investor expectations may change over time.
+
+---
+
+## 🚀 Future Plans
+
+- Improved support for English-language outputs  
+- Templates for additional industries beyond IT and AI  
+- Advanced financial modeling and scenario analysis
+
+---
+
+## License
+
+MIT License
+
+---
+
+> “Create compelling business plans that capture investors’ hearts.”
+
+[View 新規事業計画書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
+```
+
+---
+
 # 新規事業計画書作成GPT
 
 新規事業計画書作成GPT は、スタートアップ経営者向けに、投資家（VC）提出用の事業計画書を作成するAIアシスタントです。
