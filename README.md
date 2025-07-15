@@ -6,30 +6,44 @@
 
 ## 📌 Overview
 
-**Business Plan Generator GPT (新規事業計画書作成GPT)** is a GPT-powered assistant that helps startup founders quickly generate professional business plans tailored for venture capital (VC) investors.
+**Business Plan Generator GPT (新規事業計画書作成GPT)** is a GPT-powered assistant built to help startup founders rapidly create professional business plans specifically targeted toward venture capital (VC) investors.
 
-Specializing in the IT and AI fields, it produces business plans covering everything from business overviews to market analysis and revenue forecasts — written in a formal yet passionate tone to captivate investors.
-
----
-
-## ⚙️ Features
-
-✅ Automatically generates business plans tailored for VC investors  
-✅ Specialized language and analysis for IT and AI sectors  
-✅ Outputs the following sections:
-- Business Overview
-- Business Model
-- Market Analysis
-- Unique Value Proposition
-- Revenue Forecast (simplified)
-- Social Impact
-
-✅ Writes in a positive, passionate tone to convey enthusiasm  
-✅ Asks follow-up questions if input details are missing
+Optimized for IT and AI sectors, it generates business plans covering all crucial sections—from business overviews and market analysis to revenue forecasts—in a formal yet energetic tone designed to inspire confidence and enthusiasm among investors.
 
 ---
 
-## 🎯 Example Prompts
+## ⚙️ Key Features
+
+- ✅ Automatically generates business plans tailored for VC pitches
+- ✅ Specialized in language and analysis for IT and AI industries
+- ✅ Outputs the following sections:
+  - Business Overview
+  - Business Model
+  - Market Analysis
+  - Unique Value Proposition
+  - Revenue Forecast (simplified)
+  - Social Impact
+- ✅ Writes in a positive, passionate style to engage investors
+- ✅ Interactively asks follow-up questions if initial details are insufficient
+
+---
+
+## 🎯 Target Users
+
+- Startup founders
+- Entrepreneurs preparing pitch materials
+- Business development teams
+- Consultants helping startups with fundraising
+
+---
+
+## 💻 Usage Examples
+
+Here’s how you might use this GPT:
+
+---
+
+### Example Prompt 1
 
 ```
 
@@ -43,6 +57,33 @@ Please create a business plan for VC investors based on the following informatio
 * Social Impact: Improving marketing efficiency and reducing corporate costs
 
 ```
+
+---
+
+### GPT Example Output
+
+> **【Business Overview】**  
+> This business offers a SaaS platform leveraging Generative AI to transform marketing operations for medium and large enterprises in Japan. It combines customer data analysis, automated copywriting, and ad optimization into a single, unified solution.  
+>  
+> **【Business Model】**  
+> The platform utilizes a subscription model, reducing barriers to initial adoption and aiming for stable recurring revenue.  
+>  
+> **【Market Analysis】**  
+> Japan’s marketing SaaS market is expected to grow at over 10% annually. The Generative AI segment remains relatively untapped, representing a significant blue ocean opportunity.  
+>  
+> **【Unique Value Proposition】**  
+> The company’s proprietary AI models are trained on extensive marketing datasets, enabling precise understanding of industry-specific language and consumer psychology.  
+>  
+> **【Revenue Forecast (Simplified)】**  
+> The initial revenue target is ¥100 million in year 1, scaling to ¥1 billion by year 3.  
+>  
+> **【Social Impact】**  
+> The platform improves marketing efficiency and reduces costs for enterprises, contributing to overall economic productivity.
+
+---
+
+### Example Prompt 2
+
 ```
 
 Please generate only the market analysis section.
@@ -51,97 +92,100 @@ Please generate only the market analysis section.
 
 ---
 
-## 💻 Example Output
+## ✅ Use Cases
 
-> **【Business Overview】**  
-> This business offers a SaaS platform leveraging Generative AI to revolutionize marketing operations for medium and large enterprises in Japan. It integrates customer data analysis, automated copywriting, and ad optimization into a single solution, transforming corporate marketing efforts.
->
-> **【Business Model】**  
-> The service adopts a subscription-based model, lowering initial adoption barriers to attract customers, and aims for recurring revenue through continued usage.
->
-> **【Market Analysis】**  
-> Japan’s marketing SaaS market is projected to grow over 10% annually. The Generative AI space remains largely untapped, representing a significant blue ocean opportunity.
->
-> **【Unique Value Proposition】**  
-> Our strength lies in proprietary AI models trained on extensive marketing datasets, enabling precise capture of industry-specific expressions and consumer psychology.
->
-> **【Revenue Forecast (Simplified)】**  
-> The first-year revenue target is ¥100 million, aiming for ¥1 billion annually by year 3.
->
-> **【Social Impact】**  
-> This business enhances marketing efficiency and cost reduction for companies, contributing to overall economic productivity.
+- Quickly drafting business plans for investor meetings
+- Standardizing pitch documents across teams
+- Saving time for founders preparing for VC pitches
+- Generating business plan drafts for consultants working with startups
 
 ---
 
-## 🛠 Technical Highlights
+## 💡 Why This Tool?
 
-- **Custom Prompt Engineering**
-  - Optimized to generate business plans specifically for the IT and AI sectors
-  - Capable of producing both concise summaries and detailed explanations
-
-- **Investor-Focused Tone**
-  - Outputs documents in a formal yet energetic style to engage VCs
-
-- **Interactive Data Collection**
-  - Asks additional questions if initial input is insufficient
+Crafting a business plan is often time-consuming, yet crucial for securing VC funding.  
+**Business Plan Generator GPT** helps founders transform raw business ideas into professional, compelling documents that resonate with investors—saving time and increasing the chances of success.
 
 ---
 
 ## ⚠️ Disclaimer
 
-- This tool generates draft business plans for reference purposes.
+- This tool produces draft business plans for reference only.
 - Final business plans should be reviewed and refined by professionals before submission to investors.
-- Market conditions and investor expectations may change over time.
+- Market dynamics and VC expectations can change rapidly.
 
 ---
 
-## 🚀 Future Plans
+## 🌐 Demo
 
-- Improved support for English-language outputs  
-- Templates for additional industries beyond IT and AI  
-- Advanced financial modeling and scenario analysis
+[View 新規事業計画書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
 
 ---
 
-## License
+## 👨‍💻 My Role
+
+I designed and developed this GPT, including:
+
+- Prompt engineering tailored to business plan structures and VC expectations
+- UX design for user-friendly input and output flows
+- Refinement of language to balance professionalism and persuasive tone for investor documents
+
+---
+
+## 📄 License
 
 MIT License
 
 ---
 
-> “Create compelling business plans that capture investors’ hearts.”
-
-[View 新規事業計画書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
-```
-
 ---
 
 # 新規事業計画書作成GPT
 
-新規事業計画書作成GPT は、スタートアップ経営者向けに、投資家（VC）提出用の事業計画書を作成するAIアシスタントです。
-
-IT・AI分野に特化し、事業概要から市場分析、売上予測まで、フォーマルかつ熱意が伝わる文章で、投資家の心を掴む計画書を自動生成します。
+> 「投資家の心をつかむ事業計画書を、スピーディーに。」
 
 ---
 
-## Features
+## 📌 概要
 
-✅ 投資家（VC）向けの事業計画書を自動生成  
-✅ IT・AI分野に特化した表現や分析に対応  
-✅ 以下の項目を項目別に出力：
-- 事業概要
-- ビジネスモデル
-- 市場分析
-- 強み（Unique Value Proposition）
-- 売上予測（簡易）
-- 社会的意義
+**新規事業計画書作成GPT** は、スタートアップ経営者が投資家（VC）向けの事業計画書を迅速に作成するための GPT アシスタントです。
 
-✅ 熱意を込めたポジティブなトーンで文章作成  
-✅ 入力情報が不足している場合は追加ヒアリングを実施
+特に IT・AI 分野に特化し、事業概要から市場分析、売上予測まで、フォーマルかつ熱意を感じさせる文章を自動生成し、投資家への説得力を高めます。
 
 ---
 
-## Example Prompts
+## ⚙️ 主な機能 / Features
+
+- ✅ VC 提出用の事業計画書を自動作成
+- ✅ IT・AI 業界特有の用語や分析に対応
+- ✅ 以下の項目を出力可能：
+  - 事業概要
+  - ビジネスモデル
+  - 市場分析
+  - 強み（Unique Value Proposition）
+  - 売上予測（簡易）
+  - 社会的意義
+- ✅ 投資家の心を動かす熱意あるトーンで出力
+- ✅ 入力不足時には追加質問を行い情報を補完
+
+---
+
+## 🎯 想定ユーザー / Target Users
+
+- スタートアップ経営者
+- ピッチ資料作成中の起業家
+- 新規事業開発チーム
+- スタートアップ支援のコンサルタント
+
+---
+
+## 💻 使用例 / Usage Examples
+
+以下のように入力するだけで、投資家向け事業計画書を作成できます：
+
+---
+
+### 入力例 1
 
 ```
 
@@ -155,6 +199,33 @@ IT・AI分野に特化し、事業概要から市場分析、売上予測まで�
 * 社会的意義：企業のマーケティング効率化とコスト削減
 
 ```
+
+---
+
+### GPT の出力例
+
+> 【事業概要】  
+> 本事業は、生成AIを活用し、国内の中堅・大企業向けにマーケティング業務を革新するSaaSサービスを提供します。顧客データ分析、コピー自動生成、広告出稿最適化を一つのプラットフォームで実現し、企業のマーケティング活動に革新をもたらします。  
+>  
+> 【ビジネスモデル】  
+> サブスクリプション型課金モデルを採用し、初期導入の障壁を下げて顧客を獲得します。継続利用によるストック収益化を目指します。  
+>  
+> 【市場分析】  
+> 国内のマーケティングSaaS市場は年率10%以上の成長が見込まれており、生成AI領域は未開拓な部分が多いブルーオーシャンです。  
+>  
+> 【強み（Unique Value Proposition）】  
+> 当社の強みは、豊富なマーケティングデータで学習した独自AIモデルにより、業界特有の表現や顧客心理を的確に捉えられる点です。  
+>  
+> 【売上予測（簡易）】  
+> 初年度は1億円、3年後には年間10億円の売上を目指します。  
+>  
+> 【社会的意義】  
+> 本事業は、企業のマーケティング活動の効率化とコスト削減を実現し、経済全体の生産性向上に寄与します。
+
+---
+
+### 入力例 2
+
 ```
 
 市場分析だけ作成してください。
@@ -163,29 +234,52 @@ IT・AI分野に特化し、事業概要から市場分析、売上予測まで�
 
 ---
 
-## Output Example
+## ✅ 活用例 / Use Cases
 
-> 【事業概要】  
-> 本事業は、生成AIを活用し、国内の中堅・大企業向けにマーケティング業務を革新するSaaSサービスを提供します。顧客データ分析、コピー自動生成、広告出稿最適化を一つのプラットフォームで実現し、企業のマーケティング活動に革新をもたらします。
-> 
-> 【ビジネスモデル】  
-> サブスクリプション型課金モデルを採用し、初期導入の障壁を下げる戦略で顧客を獲得します。継続利用によるストック収益化を目指します。
-> 
-> 【市場分析】  
-> 国内のマーケティングSaaS市場は年率10%以上の成長が見込まれており、生成AI領域は未開拓な部分が多いブルーオーシャンです。
-> 
-> 【強み（Unique Value Proposition）】  
-> 当社の強みは、豊富なマーケティングデータで学習した独自AIモデルにより、業界特有の表現や顧客心理を的確に捉えられる点です。
-> 
-> 【売上予測（簡易）】  
-> 初年度は1億円、3年後には年間10億円の売上を目指します。
-> 
-> 【社会的意義】  
-> 本事業は、企業のマーケティング活動の効率化とコスト削減を実現し、経済全体の生産性向上に寄与します。
+- VC向けピッチ資料のたたき台作成
+- チーム内での事業計画の標準化
+- 多忙な経営者の作業時間短縮
+- スタートアップ支援のコンサルタントによる提案書作成
 
 ---
 
-新規事業計画書作成GPT を活用し、投資家の心を動かす事業計画書をスピーディーに作り上げましょう！
+## 💡 このツールが必要な理由 / Why This Tool?
+
+事業計画書は VC 調達において最も重要な武器の一つです。  
+**新規事業計画書作成GPT** は、構想段階のアイデアを投資家に刺さる言葉に落とし込み、作成時間を短縮しつつ採択率向上をサポートします。
+
+---
+
+## ⚠️ 注意事項 / Disclaimer
+
+- 本ツールはドラフト作成・参考情報の提供を目的としています。
+- 投資家提出前には必ず専門家によるレビューを行ってください。
+- 市場動向やVCの期待値は常に変化します。
+
+---
+
+## 🌐 デモ / Demo
+
+[ChatGPTで 新規事業計画書作成GPT を見る](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
+
+---
+
+## 👨‍💻 開発者 / My Role
+
+本ツールでは以下を担当しました：
+
+- VC向け事業計画書構成に特化したプロンプト設計
+- ユーザーが入力しやすい UX 設計
+- 熱意と説得力を両立した文章のブラッシュアップ
+
+---
+
+## 📄 ライセンス / License
+
+MIT License
+
+---
+
+> 「投資家の心をつかむ事業計画書を、スピーディーに。」
 ```
 
-https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt
