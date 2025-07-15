@@ -1,6 +1,6 @@
 # Business Plan Generator GPT (新規事業計画書作成GPT)
 
-> “Create compelling business plans that capture investors’ hearts.”
+> **“Create compelling business plans that capture investors’ hearts.”**
 
 ---
 
@@ -14,17 +14,38 @@ Optimized for IT and AI sectors, it generates business plans covering all crucia
 
 ## ⚙️ Key Features
 
-- ✅ Automatically generates business plans tailored for VC pitches
-- ✅ Specialized in language and analysis for IT and AI industries
-- ✅ Outputs the following sections:
-  - Business Overview
-  - Business Model
-  - Market Analysis
-  - Unique Value Proposition
-  - Revenue Forecast (simplified)
-  - Social Impact
-- ✅ Writes in a positive, passionate style to engage investors
-- ✅ Interactively asks follow-up questions if initial details are insufficient
+✅ **Tailored for VC Pitches**
+
+- Automatically generates business plans designed to impress venture capitalists.
+
+---
+
+✅ **Specialized for IT and AI Sectors**
+
+- Uses appropriate terminology and insights for technology-driven businesses.
+
+---
+
+✅ **Comprehensive Sections Included**
+
+- Business Overview
+- Business Model
+- Market Analysis
+- Unique Value Proposition
+- Revenue Forecast (simplified)
+- Social Impact
+
+---
+
+✅ **Passionate, Persuasive Style**
+
+- Writes in a positive, energetic tone to engage potential investors.
+
+---
+
+✅ **Interactive Follow-Up**
+
+- Asks follow-up questions if initial details are insufficient.
 
 ---
 
@@ -33,7 +54,7 @@ Optimized for IT and AI sectors, it generates business plans covering all crucia
 - Startup founders
 - Entrepreneurs preparing pitch materials
 - Business development teams
-- Consultants helping startups with fundraising
+- Consultants assisting startups with fundraising
 
 ---
 
@@ -60,7 +81,7 @@ Please create a business plan for VC investors based on the following informatio
 
 ---
 
-### GPT Example Output
+### ✅ GPT Example Output
 
 > **【Business Overview】**  
 > This business offers a SaaS platform leveraging Generative AI to transform marketing operations for medium and large enterprises in Japan. It combines customer data analysis, automated copywriting, and ad optimization into a single, unified solution.  
@@ -94,8 +115,8 @@ Please generate only the market analysis section.
 
 ## ✅ Use Cases
 
-- Quickly drafting business plans for investor meetings
-- Standardizing pitch documents across teams
+- Drafting business plans quickly for investor meetings
+- Standardizing pitch materials across teams
 - Saving time for founders preparing for VC pitches
 - Generating business plan drafts for consultants working with startups
 
@@ -104,7 +125,7 @@ Please generate only the market analysis section.
 ## 💡 Why This Tool?
 
 Crafting a business plan is often time-consuming, yet crucial for securing VC funding.  
-**Business Plan Generator GPT** helps founders transform raw business ideas into professional, compelling documents that resonate with investors—saving time and increasing the chances of success.
+**Business Plan Generator GPT** helps founders transform raw business ideas into professional, compelling documents that resonate with investors—saving time and increasing the chance of success.
 
 ---
 
@@ -118,7 +139,7 @@ Crafting a business plan is often time-consuming, yet crucial for securing VC fu
 
 ## 🌐 Demo
 
-[View 新規事業計画書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
+[Try 新規事業計画書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
 
 ---
 
@@ -135,6 +156,10 @@ I designed and developed this GPT, including:
 ## 📄 License
 
 MIT License
+
+---
+
+> **「投資家の心をつかむ事業計画書を、スピーディーに。」**
 
 ---
 
