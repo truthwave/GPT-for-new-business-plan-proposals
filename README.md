@@ -1,3 +1,8 @@
+<p>
+  <img width="1536" height="1024" alt="段落テキスト (5)" src="https://github.com/user-attachments/assets/11d9dc1d-3896-4bd5-af6b-b62f372d909b" />
+
+</p>
+
 # 新規事業計画書作成GPT
 
 > 「投資家の心をつかむ事業計画書を、スピーディーに。」
