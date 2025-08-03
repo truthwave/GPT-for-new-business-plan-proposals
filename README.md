@@ -146,3 +146,9 @@ MIT License
 ---
 
 > 「投資家の心をつかむ事業計画書を、スピーディーに。」
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
