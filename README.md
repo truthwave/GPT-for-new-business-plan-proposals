@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/5792b355-e63b-4403-93fd-8a75416555cb" />
 
 </p>
@@ -78,3 +78,6 @@
 [ともプログラム便り](https://github.com/TomoProgrammingDayori)
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
