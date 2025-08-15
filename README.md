@@ -58,6 +58,11 @@
 
 ---
 
+## 🌐 デモ
+
+[※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
+
+
 ## 💻 使用例
 
 ### 入力例
