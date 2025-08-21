@@ -40,12 +40,13 @@
 ---
 
 ## 📸 **体験イメージ**
+![デモ動画](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
-[子育て支援アプリ事業計画書](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E5%AD%90%E8%82%B2%E3%81%A6%E6%94%AF%E6%8F%B4%E3%82%A2%E3%83%97%E3%83%AA%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.png)
+![子育て支援アプリ事業計画書](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E5%AD%90%E8%82%B2%E3%81%A6%E6%94%AF%E6%8F%B4%E3%82%A2%E3%83%97%E3%83%AA%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.png)
 
-[製造業特化AI企業の強み](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%89%B9%E5%8C%96AI%E4%BC%81%E6%A5%AD%E3%81%AE%E5%BC%B7%E3%81%BF.png)
+![製造業特化AI企業の強み](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E8%A3%BD%E9%80%A0%E6%A5%AD%E7%89%B9%E5%8C%96AI%E4%BC%81%E6%A5%AD%E3%81%AE%E5%BC%B7%E3%81%BF.png)
 
-[高齢者向けフィットネスアプリ新規事業計画書](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E9%AB%98%E9%BD%A2%E8%80%85%E5%90%91%E3%81%91%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.png)
+![高齢者向けフィットネスアプリ新規事業計画書](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E9%AB%98%E9%BD%A2%E8%80%85%E5%90%91%E3%81%91%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8.png)
 
 ---
 
