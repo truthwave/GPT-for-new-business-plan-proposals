@@ -40,7 +40,7 @@
 ---
 
 ## 📸 **体験イメージ**
-![デモ動画](https://github.com/TomoProgrammingDayori/GPT-for-new-business-plan-proposals/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
+![デモ動画](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 ### [スクリーンショットはこちら](https://github.com/truthwave/GPT-for-new-business-plan-proposals/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
