@@ -59,6 +59,7 @@
 
 [※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
 
+---
 
 ## 💻 使用例
 
@@ -74,6 +75,8 @@
 * 売上目標：3年後に年間売上10億円
 * 社会的意義：企業のマーケティング効率化とコスト削減
 ```
+
+---
 
 ## 🧑‍💻 作者
 
