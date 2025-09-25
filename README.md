@@ -55,9 +55,15 @@
 
 ---
 
-## 🌐 デモ
+## 🛒 ココナラで販売中！
 
-[※ ChatGPTで使ってみる（無料）](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
+このプロジェクトは、現在ココナラにて有償版を販売しています。  
+AIプロンプト設計・カスタマイズ・導入サポートをご希望の方は、以下よりご相談ください。
+
+🎯 9月限定｜キャンペーン中
+<br>初めての方にも安心してご利用いただけるよう、レビューにご協力いただける方へ特別価格でご提供しています。
+
+### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmfw6skpq099nal0huc9c9tzi)
 
 ---
 
