@@ -135,11 +135,6 @@ Crafting a business plan is often time-consuming, yet crucial for securing VC fu
 - Final business plans should be reviewed and refined by professionals before submission to investors.
 - Market dynamics and VC expectations can change rapidly.
 
----
-
-## 🌐 Demo
-
-[Try 新規事業計画書作成GPT on ChatGPT](https://chatgpt.com/g/g-6871b4d7f7e08191b14c5a206eac03b2-xin-gui-shi-ye-ji-hua-shu-zuo-cheng-gpt)
 
 ---
 
