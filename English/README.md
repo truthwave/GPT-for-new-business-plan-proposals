@@ -1,4 +1,9 @@
-# Business Plan Generator GPT (新規事業計画書作成GPT)
+<p align="center">
+<img width="1536" height="1024" alt="新規事業計画書GPTs" src="https://github.com/user-attachments/assets/92d5105e-0155-47a3-a425-9d0fd6a8dd76" />
+
+</p>
+
+# Business Plan Generator GPT
 
 > **“Create compelling business plans that capture investors’ hearts.”**
 
@@ -6,7 +11,7 @@
 
 ## 📌 Overview
 
-**Business Plan Generator GPT (新規事業計画書作成GPT)** is a GPT-powered assistant built to help startup founders rapidly create professional business plans specifically targeted toward venture capital (VC) investors.
+**Business Plan Generator GPT** is a GPT-powered assistant built to help startup founders rapidly create professional business plans specifically targeted toward venture capital (VC) investors.
 
 Optimized for IT and AI sectors, it generates business plans covering all crucial sections—from business overviews and market analysis to revenue forecasts—in a formal yet energetic tone designed to inspire confidence and enthusiasm among investors.
 
@@ -151,11 +156,3 @@ I designed and developed this GPT, including:
 ## 📄 License
 
 MIT License
-
----
-
-> **「投資家の心をつかむ事業計画書を、スピーディーに。」**
-
----
-
----
