@@ -4,7 +4,7 @@
 > 未来を信じさせろ。
 
 <p align="center">
-<img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/5792b355-e63b-4403-93fd-8a75416555cb" />
+<img width="1536" height="1024" alt="新規事業 (1)" src="https://github.com/user-attachments/assets/3124aad1-9978-44d7-af3a-db09cbfe86d4" />
 </p>
 
 ---
