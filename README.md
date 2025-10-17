@@ -5,10 +5,7 @@
 
 <p align="center">
 <img width="1536" height="1024" alt="段落テキスト" src="https://github.com/user-attachments/assets/5792b355-e63b-4403-93fd-8a75416555cb" />
-
 </p>
-
-
 
 ---
 
