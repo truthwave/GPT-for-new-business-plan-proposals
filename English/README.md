@@ -4,7 +4,7 @@
 > Make them believe in the future.
 
 <p align="center">
-<img width="1536" height="1024" alt="新規事業" src="https://github.com/user-attachments/assets/ab9f02b4-1776-4e52-a9b1-f1e3a8e42050" />
+<img width="1536" height="1024" alt="新規事業" src="https://github.com/user-attachments/assets/18d549eb-f1ec-4dd9-aa70-12a6cd7b7f0a" />
 </p>
 
 
