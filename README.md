@@ -20,7 +20,6 @@
 ---
 
 ## プロジェクト概要
-<img width="1280" height="720" alt="新規事業" src="https://github.com/user-attachments/assets/678b710b-b581-4328-9aa0-fa982e5fd8c2" />
 
 [![【無料テンプレ不要】GPTで投資家に刺さる事業計画書を自動生成する方法](https://github.com/user-attachments/assets/678b710b-b581-4328-9aa0-fa982e5fd8c2)](https://youtu.be/hBg6FTkbs00)
 
