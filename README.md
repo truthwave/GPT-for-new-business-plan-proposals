@@ -20,8 +20,9 @@
 ---
 
 ## プロジェクト概要
+<img width="1280" height="720" alt="新規事業" src="https://github.com/user-attachments/assets/678b710b-b581-4328-9aa0-fa982e5fd8c2" />
 
-[![【無料テンプレ不要】GPTで投資家に刺さる事業計画書を自動生成する方法](https://github.com/user-attachments/assets/7e085b31-c33d-4a7d-803f-e29f21f76eff)](https://youtu.be/hBg6FTkbs00)
+[![【無料テンプレ不要】GPTで投資家に刺さる事業計画書を自動生成する方法](https://github.com/user-attachments/assets/678b710b-b581-4328-9aa0-fa982e5fd8c2)](https://youtu.be/hBg6FTkbs00)
 
 #### [スライド資料はこちら](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/%E8%B3%87%E6%96%99/%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB%E6%9B%B8GPT.pdf)
 
