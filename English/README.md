@@ -31,11 +31,9 @@ with writing and structure specialized for the IT and AI fields.
 
 ## 📸 **Experience Preview**
 
-![Demo](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/English/Demo%20Movie.gif)
+![Demo](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/English/Materials/Demo%20Movie.gif)
 
-![Screenshots](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/English/business-plan-childcare-support-app.png)
-
-![Screenshots Here](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/English/company-strength-manufacturing-ai.png)
+### [Screenshot](https://github.com/truthwave/GPT-for-new-business-plan-proposals/tree/main/English/Materials/Screenshot)
 
 ---
 
