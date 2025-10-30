@@ -20,7 +20,6 @@ with writing and structure specialized for the IT and AI fields.
 ---
 
 ## Project Overview
-<img width="1280" height="720" alt="新規事業" src="https://github.com/user-attachments/assets/6567f03e-46bf-434b-b7c5-b3ea9c949c2d" />
 
 ### Watch on YouTube
 [![How to Automatically Generate Investment-Ready Business Plans with GPT (No Free Templates Needed)](https://github.com/user-attachments/assets/6567f03e-46bf-434b-b7c5-b3ea9c949c2d)](https://youtu.be/hBg6FTkbs00)
