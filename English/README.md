@@ -7,8 +7,6 @@
 <img width="1536" height="1024" alt="新規事業" src="https://github.com/user-attachments/assets/18d549eb-f1ec-4dd9-aa70-12a6cd7b7f0a" />
 </p>
 
-
-
 ---
 
 ## ✨ Experience
@@ -18,6 +16,16 @@ What moves hearts is a story.
 
 This assistant transforms your business into a “story that speaks of the future”
 with writing and structure specialized for the IT and AI fields.
+
+---
+
+## Project Overview
+<img width="1280" height="720" alt="新規事業" src="https://github.com/user-attachments/assets/6567f03e-46bf-434b-b7c5-b3ea9c949c2d" />
+
+### Watch on YouTube
+[![How to Automatically Generate Investment-Ready Business Plans with GPT (No Free Templates Needed)](https://github.com/user-attachments/assets/6567f03e-46bf-434b-b7c5-b3ea9c949c2d)](https://youtu.be/hBg6FTkbs00)
+
+#### [Slide Materials Here](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/English/Materials/New%20Business%20Plan%20Creation%20GPT.pdf)
 
 ---
 
