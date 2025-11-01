@@ -64,7 +64,7 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 
 ## 🧑‍💻 作者
 
-**[Truth Wave ― 真理の波](https://github.com/truthwave/Truth-Wave)**  
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
 
